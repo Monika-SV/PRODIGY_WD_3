@@ -1,1 +1,1 @@
-# PRODIGY_WD_3
+This project is a Tic Tac Toe game that allows users to play against each other in a classic grid format. It is built using HTML, CSS, and JavaScript, providing an interactive interface and implementing game logic to determine the winner.
